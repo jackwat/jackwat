@@ -1,4 +1,4 @@
-- 👋 Hi, I’m  Ssempebqa Ivan @jackwat
+- 👋 Hi, I’m  Ssempebwa Ivan @jackwat
 - 👀 I’m interested in software development and graphics design
 - 🌱 I’m currently learning C#, python and 3D modeling
 - 💞️ I’m looking to collaborate on web, desktop and mobile application development 
