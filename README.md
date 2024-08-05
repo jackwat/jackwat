@@ -3,7 +3,9 @@
 - 🌱 I’m advanced in C# | Python | React | SQL | Kotlin | Swift | Xamarin | HTML | JS | CSS | Ruby 
 - 💞️ I’m very passionate about IT and ready to learn new concepts always.
 - 📫 How to reach me:
+
 const email = ivanmic47@gmail.com;
+
 const tel = +256759992949;
 
 byEmail? sendMail(email) : viaWhatsapp(tel);
